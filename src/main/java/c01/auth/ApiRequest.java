@@ -2,10 +2,10 @@ package c01.auth;
 
 
 public class ApiRequest {
-    private String baseUrl;
-    private String token;
-    private long timestamp;
-    private String appID;
+    private final String baseUrl;
+    private final String token;
+    private final long timestamp;
+    private final String appID;
 
     public ApiRequest(String baseUrl, String token, long timestamp, String appID) {
         this.baseUrl = baseUrl;
