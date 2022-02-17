@@ -1,4 +1,4 @@
-package c05.strategy.define;
+package c05.strategy;
 
 import java.util.HashMap;
 import java.util.Map;

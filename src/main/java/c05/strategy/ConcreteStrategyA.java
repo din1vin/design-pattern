@@ -1,4 +1,4 @@
-package c05.strategy.define;
+package c05.strategy;
 
 public class ConcreteStrategyA implements Strategy{
     @Override
